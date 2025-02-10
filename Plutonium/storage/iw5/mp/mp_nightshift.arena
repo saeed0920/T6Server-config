@@ -1,0 +1,12 @@
+{
+	map			"mp_nightshift"
+	longname	"Skidrow"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "MPUI_DESC_MAP_NIGHTSHIFT"
+	mapimage    "preview_mp_nightshift"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}

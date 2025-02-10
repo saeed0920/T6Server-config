@@ -1,0 +1,12 @@
+{
+    map         "mp_nuked"
+    longname    "Nuketown"
+    gametype    "dm war sab sab2 dom sd sd2 hc thc ctf koth"
+    description "MPUI_DESC_MAP_NUKED"
+    mapimage    "preview_mp_nuked"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sas_urban"
+    axischar    "opforce_henchmen"
+    environment "desert"
+    mappack     "27"
+}

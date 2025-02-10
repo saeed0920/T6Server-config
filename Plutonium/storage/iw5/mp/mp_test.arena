@@ -1,0 +1,12 @@
+{
+	map			"mp_test"
+	longname	"Testmap"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "Just a cube"
+	mapimage    "plutonium_logo"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}

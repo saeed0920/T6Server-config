@@ -1,0 +1,12 @@
+{
+	map			"mp_favela"
+	longname	"Favela"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "MPUI_DESC_MAP_FAVELA"
+	mapimage    "preview_mp_favela"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}

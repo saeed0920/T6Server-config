@@ -1,0 +1,410 @@
+Build r4542
+logfile opened on Mon Feb 10 22:16:33 2025
+
+Current language: english
+Current search path:
+Z:\opt\T6Server\Plutonium\storage\t6/raw
+Z:\opt\T6Server\Plutonium\storage\t6//
+Z:\opt\T6Server\Plutonium\storage\t6/players
+Z:\opt\T6Server\Plutonium\storage\t6/main
+Z:\opt\T6Server\Server\Zombie/main
+Z:\opt\T6Server\Server\Zombie/main_shared
+Z:\opt\T6Server\Server\Zombie/players
+execing default_mp.cfg
+execing default_statversion.cfg
+completed execing default_statversion.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+completed execing default_mp.cfg
+execing default_mp_controls_english.cfg
+completed execing default_mp_controls_english.cfg
+r_aaSamples will be changed upon restarting.
+r_fullscreen will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+execing configure.cfg
+r_aspectRatio will be changed upon restarting.
+completed execing configure.cfg
+'16' is not a valid value for dvar 'ai_corpseCount'
+  Domain is any integer from 0 to 8
+r_aaSamples will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+Loading fastfile patch_zm
+Loading fastfile code_post_gfx_zm
+Built adjacency info for IPaks 6ms
+execing ragdoll.cfg
+completed execing ragdoll.cfg
+execing default_zm_gamesettings.cfg
+execing default_mp_gamesettings.cfg
+execing zm/gamesettings_default.cfg
+completed execing zm/gamesettings_default.cfg
+execing zm/gamesettings_tdm.cfg
+completed execing zm/gamesettings_tdm.cfg
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_mp_gamesettings.cfg
+execing zm/gamesettings_default.cfg
+completed execing zm/gamesettings_default.cfg
+execing zm/gamesettings_zclassic.cfg
+completed execing zm/gamesettings_zclassic.cfg
+completed execing default_zm_gamesettings.cfg
+bound socket to localhost:21889
+net_port will be changed upon restarting.
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+--- Common Initialization Complete ---
+Unknown command "t6zm"
+net_port will be changed upon restarting.
+execing dedicated_zm.cfg
+Unknown command "limit"
+Unknown command "range"
+Unknown command "value"
+addedaddedaddedaddedcompleted execing dedicated_zm.cfg
+Loading fastfile patch_ui_zm
+Loading fastfile ui_zm
+Built adjacency info for IPaks 7ms
+Loading fastfile common_zm
+Loading fastfile ffotd_tu17_zm_147
+Built adjacency info for IPaks 7ms
+Loading fastfile dlczm0_load_zm
+Loading fastfile dlc1_load_zm
+Loading fastfile dlc2_load_zm
+Loading fastfile dlc3_load_zm
+Loading fastfile dlc4_load_zm
+Loading fastfile dlc0dd_load_zm
+Loading fastfile seasonpass_load_zm
+
+
+map_rotate...
+
+"sv_mapRotation" is: "execgts zm_standard_tomb.cfg map zm_tomb"
+
+"sv_mapRotationCurrent" is: ""
+
+Executing gts cfg: zm_standard_tomb.cfg.
+Setting map: zm_tomb.
+couldn't exec zm_standard_tomb.cfg
+Built adjacency info for IPaks 13ms
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Unloading fastfile ui_zm
+Unloading fastfile patch_ui_zm
+Loaded menu file: ui/t6/dvarleftrightselector.lua
+Loaded menu file: ui_mp/t6/hud/team_marinesopfor.lua
+Loaded menu file: ui_mp/t6/hud/class.lua
+Loaded menu file: ui/t6/menus/optionscontrols.lua
+Loaded menu file: ui/t6/menus/optionssettings.lua
+Loaded menu file: ui/t6/menus/safeareamenu.lua
+Loaded menu file: ui_mp/t6/hud/scoreboard.lua
+Loaded menu file: ui_mp/t6/hud/spectateplayercard.lua
+Loaded menu file: ui_mp/t6/hud/loading.lua
+Loaded menu file: ui_mp/t6/zombie/hudcompetitivescoreboardzombie.lua
+Loaded menu file: ui_mp/t6/zombie/hudcompetitivescoreboardzombieog.lua
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/players
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main_shared
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/players
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6//
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/raw
+Current language: english
+Current search path:
+Z:\opt\T6Server\Plutonium\storage\t6/raw
+Z:\opt\T6Server\Plutonium\storage\t6//
+Z:\opt\T6Server\Plutonium\storage\t6/players
+Z:\opt\T6Server\Plutonium\storage\t6/main
+Z:\opt\T6Server\Server\Zombie/main
+Z:\opt\T6Server\Server\Zombie/main_shared
+Z:\opt\T6Server\Server\Zombie/players
+Loading fastfile zm_tomb_patch
+Loading fastfile zm_tomb
+Loading fastfile so_zclassic_zm_tomb
+Built adjacency info for IPaks 16ms
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+Initializing game at 02/10/25 22:16:37 +0000
+Current uptime: 00:00:13
+Level time: 0
+Restart: 0
+------- Game Initialization -------
+gamename: PT6ZM
+gamedate: Jan 27 2025
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Script "scripts/zm/ranked.gsc" loaded successfully
+codescripts/delete.gsc (common_zm): 0x0B4E32EE
+codescripts/struct.gsc (common_zm): 0x5A0C849E
+common_scripts/utility.gsc (patch_zm): 0x1447FBB5
+maps/mp/_script_gen.gsc (patch_zm): 0xE3828D0B
+maps/mp/_fx.gsc (patch_zm): 0xCF0DC190
+maps/mp/_createfxmenu.gsc (patch_zm): 0x875AF4D1
+maps/mp/_createfxundo.gsc (patch_zm): 0xED3BDE6C
+maps/mp/_createfx.gsc (patch_zm): 0x2B78DD0D
+common_scripts/default (): 0xA3CC035D
+maps/mp/_utility.gsc (patch_zm): 0xD2E0DC40
+maps/mp/_visionset_mgr.gsc (patch_zm): 0x676C5540
+maps/mp/gametypes_zm/_hud.gsc (patch_zm): 0x28AE1ACB
+maps/mp/_music.gsc (patch_zm): 0xA3DAE7A9
+maps/mp/zombies/_zm_clone.gsc (patch_zm): 0xFBCF59DE
+maps/mp/zombies/_zm_weap_cymbal_monkey.gsc (patch_zm): 0x95859954
+maps/mp/_demo.gsc (patch_zm): 0xD9D0103E
+maps/mp/zombies/_zm_zonemgr.gsc (patch_zm): 0x04516729
+maps/mp/zombies/_zm_unitrigger.gsc (patch_zm): 0x5F8CE624
+maps/mp/zombies/_zm_magicbox_lock.gsc (patch_zm): 0x1FF12AF9
+maps/mp/zombies/_zm_magicbox.gsc (patch_zm): 0x0427D94E
+maps/mp/zombies/_zm_melee_weapon.gsc (zm_tomb_patch): 0x8EB1A02E
+maps/mp/gametypes_zm/_hud_util.gsc (patch_zm): 0x7E3C551B
+maps/mp/animscripts/utility.gsc (patch_zm): 0x7556206F
+maps/mp/animscripts/shared.gsc (patch_zm): 0xDFCF35AA
+maps/mp/animscripts/zm_utility.gsc (patch_zm): 0x162B17FA
+maps/mp/animscripts/zm_shared.gsc (patch_zm): 0x7E09B3D2
+maps/mp/animscripts/zm_death.gsc (patch_zm): 0x75C9A29F
+maps/mp/zombies/_zm_net.gsc (patch_zm): 0x9B60217C
+maps/mp/zombies/_zm_blockers.gsc (patch_zm): 0xE5B98C54
+maps/mp/zombies/_zm_pers_upgrades_system.gsc (patch_zm): 0x359D5A86
+maps/mp/zombies/_zm_pers_upgrades.gsc (patch_zm): 0x3C4E3EDA
+maps/mp/zombies/_zm_powerups.gsc (patch_zm): 0xC4689549
+maps/mp/gametypes_zm/_globallogic_audio.gsc (patch_zm): 0x6D66D8BA
+maps/mp/gametypes_zm/_hud_message.gsc (patch_zm): 0x387492EE
+maps/mp/gametypes_zm/_globallogic_utils.gsc (patch_zm): 0xC114211C
+maps/mp/_challenges.gsc (patch_zm): 0x29FE7852
+maps/mp/_bb.gsc (patch_zm): 0x32A9EFDD
+maps/mp/gametypes_zm/_globallogic_score.gsc (patch_zm): 0x28F6B956
+maps/mp/zombies/_zm_pers_upgrades_functions.gsc (patch_zm): 0x3F8546EE
+maps/mp/zombies/_zm_score.gsc (patch_zm): 0xB7F0FF55
+maps/mp/zombies/_zm_weap_ballistic_knife.gsc (zm_tomb_patch): 0x3FC6FC78
+maps/mp/gametypes_zm/_damagefeedback.gsc (patch_zm): 0x06EDD55D
+maps/mp/gametypes_zm/_tweakables.gsc (patch_zm): 0x94B9FA64
+maps/mp/gametypes_zm/_shellshock.gsc (patch_zm): 0x897067A1
+maps/mp/_sticky_grenade.gsc (patch_zm): 0x8F6B52CA
+maps/mp/gametypes_zm/_weapon_utils.gsc (patch_zm): 0x80C753E4
+maps/mp/gametypes_zm/_weapons.gsc (patch_zm): 0xB252E3BC
+maps/mp/gametypes_zm/_gameobjects.gsc (patch_zm): 0x2D670E94
+maps/mp/gametypes_zm/_globallogic_actor.gsc (patch_zm): 0x2697751C
+maps/mp/_audio.gsc (patch_zm): 0x250F2D68
+maps/mp/gametypes_zm/_callbacksetup.gsc (patch_zm): 0xB1A1AFF2
+maps/mp/gametypes_zm/_spawnlogic.gsc (patch_zm): 0xF97275E9
+maps/mp/gametypes_zm/_spawning.gsc (patch_zm): 0x23D4F8F2
+maps/mp/gametypes_zm/_spectating.gsc (patch_zm): 0xDD0B05AD
+maps/mp/gametypes_zm/_globallogic_defaults.gsc (patch_zm): 0x7DBCB4BE
+maps/mp/gametypes_zm/_globallogic_ui.gsc (patch_zm): 0xF49CDDEF
+maps/mp/gametypes_zm/_globallogic_spawn.gsc (patch_zm): 0xE6AF1E5F
+maps/mp/gametypes_zm/_globallogic_player.gsc (patch_zm): 0x2D892659
+maps/mp/_ballistic_knife.gsc (patch_zm): 0x89A2A500
+maps/mp/gametypes_zm/_weaponobjects.gsc (patch_zm): 0xA894146B
+maps/mp/zombies/_zm_weap_claymore.gsc (zm_tomb_patch): 0x6D8D5C97
+maps/mp/zombies/_zm_weapons.gsc (patch_zm): 0x679E9863
+maps/mp/zombies/_zm_audio_announcer.gsc (patch_zm): 0x960208B6
+maps/mp/zombies/_zm_audio.gsc (patch_zm): 0x5468B987
+maps/mp/animscripts/zm_run.gsc (patch_zm): 0x6B710D74
+maps/mp/zombies/_zm_ai_basic.gsc (patch_zm): 0x5C836E20
+maps/mp/zombies/_zm_power.gsc (patch_zm): 0x40CB6619
+maps/mp/zombies/_zm_buildables.gsc (patch_zm): 0xF79BBE2B
+maps/mp/zombies/_zm_server_throttle.gsc (patch_zm): 0xFC6FCB49
+maps/mp/zombies/_zm_utility.gsc (patch_zm): 0x30CBE92C
+maps/mp/gametypes_zm/_hostmigration.gsc (patch_zm): 0xE8829BE3
+maps/mp/gametypes_zm/_dev.gsc (patch_zm): 0x8C66471A
+maps/mp/gametypes_zm/_scoreboard.gsc (patch_zm): 0x56B8A566
+maps/mp/gametypes_zm/_clientids.gsc (patch_zm): 0xE61B2861
+maps/mp/gametypes_zm/_serversettings.gsc (patch_zm): 0x028EDC7B
+maps/mp/_busing.gsc (patch_zm): 0x6C026E66
+maps/mp/gametypes_zm/_globallogic.gsc (ffotd_tu17_zm_147): 0xDAD67DBB
+maps/mp/zombies/_zm_stats.gsc (patch_zm): 0x41F04E2A
+maps/mp/zombies/_zm_equipment.gsc (patch_zm): 0x27362014
+maps/mp/zombies/_zm_chugabud.gsc (patch_zm): 0xFE537B92
+maps/mp/zombies/_zm_perks.gsc (patch_zm): 0xAC0DA798
+maps/mp/zombies/_zm_laststand.gsc (patch_zm): 0x376F31A2
+maps/mp/zombies/_zm_ai_faller.gsc (patch_zm): 0x0C74E4AE
+maps/mp/zombies/_zm_spawner.gsc (patch_zm): 0x42742571
+maps/mp/gametypes_zm/_zm_gametype.gsc (patch_zm): 0x76D10DF1
+maps/mp/zombies/_zm_game_module.gsc (patch_zm): 0x232AFF7C
+maps/mp/zombies/_zm_ai_dogs.gsc (patch_zm): 0x32454412
+maps/mp/zombies/_zm_tombstone.gsc (patch_zm): 0xA194EAAE
+maps/mp/zombies/_zm_traps.gsc (patch_zm): 0xF3710739
+maps/mp/zombies/_zm_timer.gsc (patch_zm): 0x9E6EA542
+maps/mp/zombies/_zm_gump.gsc (patch_zm): 0x0D6B03C6
+maps/mp/zombies/_zm_playerhealth.gsc (patch_zm): 0x9E8AC3AF
+maps/mp/zombies/_zm_bot.gsc (patch_zm): 0x1F4B5BAA
+maps/mp/zombies/_zm_turned.gsc (patch_zm): 0x6039DF32
+maps/mp/zombies/_zm_devgui.gsc (patch_zm): 0xF1E7632C
+maps/mp/zombies/_zm_ffotd.gsc (patch_zm): 0x757FD63E
+maps/mp/zombies/_zm.gsc (patch_zm): 0x5515DA37
+maps/mp/animscripts/zm_melee.gsc (patch_zm): 0xA6FC03BF
+maps/mp/animscripts/zm_combat.gsc (patch_zm): 0xEE76BD65
+maps/mp/animscripts/zm_init.gsc (patch_zm): 0x620EE666
+maps/mp/animscripts/zm_pain.gsc (patch_zm): 0xA7865F71
+maps/mp/animscripts/zm_move.gsc (patch_zm): 0x05300108
+maps/mp/animscripts/zm_scripted.gsc (patch_zm): 0x165D5328
+maps/mp/animscripts/zm_stop.gsc (patch_zm): 0x31EED563
+maps/mp/animscripts/zm_flashed.gsc (patch_zm): 0xFC54E6DB
+maps/mp/animscripts/zm_jump.gsc (patch_zm): 0x79E0314E
+maps/mp/animscripts/zm_turn.gsc (patch_zm): 0x903125D1
+maps/mp/animscripts/dog_stop.gsc (patch_zm): 0x21CB6FCB
+maps/mp/animscripts/zm_dog_combat.gsc (patch_zm): 0x98B2B4B0
+maps/mp/animscripts/zm_dog_death.gsc (patch_zm): 0x28175CFB
+maps/mp/animscripts/dog_move.gsc (patch_zm): 0xD81FEDF6
+maps/mp/animscripts/zm_dog_init.gsc (patch_zm): 0x4B8C8518
+maps/mp/animscripts/zm_dog_pain.gsc (patch_zm): 0xD30254EB
+maps/mp/animscripts/zm_dog_move.gsc (patch_zm): 0x8BD35B59
+maps/mp/animscripts/zm_dog_stop.gsc (patch_zm): 0x691A1E03
+maps/mp/animscripts/zm_dog_flashed.gsc (patch_zm): 0xD0A61924
+maps/mp/animscripts/zm_dog_jump.gsc (patch_zm): 0x70D25363
+maps/mp/animscripts/zm_dog_turn.gsc (patch_zm): 0x0E9EF1A5
+xmodelalias/c_zom_tomb_german_head_als.gsc (zm_tomb): 0x0E88E1E7
+codescripts/character.gsc (common_zm): 0x958922C6
+character/c_zom_tomb_german_bare_nohat.gsc (zm_tomb): 0x35DD836B
+character/c_zom_tomb_german_bare.gsc (zm_tomb): 0xDF056C6D
+character/c_zom_tomb_german_3c_nohat.gsc (zm_tomb): 0x9F451294
+character/c_zom_tomb_german_3c.gsc (zm_tomb): 0x5C143BDF
+character/c_zom_tomb_german_2b_nohat.gsc (zm_tomb): 0x39D342C3
+aitype/zm_tomb_basic_german2.gsc (zm_tomb): 0x90DD8082
+character/c_zom_dlc_mech.gsc (zm_tomb): 0xD6156011
+aitype/zm_tomb_mech_zombie.gsc (zm_tomb): 0x074A2EB9
+character/c_zom_giant_robot_0.gsc (zm_tomb): 0x59F02BF0
+aitype/zm_tomb_giant_robot_0.gsc (zm_tomb): 0x794DEE6F
+character/c_zom_giant_robot_1.gsc (zm_tomb): 0x9C84A9BC
+aitype/zm_tomb_giant_robot_1.gsc (zm_tomb): 0xBD541034
+character/c_zom_giant_robot_2.gsc (zm_tomb): 0x08682929
+aitype/zm_tomb_giant_robot_2.gsc (zm_tomb): 0x2A0F1498
+character/c_zom_tomb_crusader_zc.gsc (zm_tomb): 0xE879F101
+aitype/zm_tomb_basic_zone_capture.gsc (zm_tomb): 0x6161CD5B
+character/c_zom_tomb_german_2b.gsc (zm_tomb): 0xB0A980B1
+character/c_zom_tomb_german_1a_nohat.gsc (zm_tomb): 0xBFA91CFC
+character/c_zom_tomb_german_1a.gsc (zm_tomb): 0xDCEF7966
+aitype/zm_tomb_basic_german.gsc (zm_tomb): 0x6BF9B219
+xmodelalias/c_zom_tomb_crusader_head_als.gsc (zm_tomb): 0x88B2EB3E
+character/c_zom_tomb_crusader_1c.gsc (zm_tomb): 0xB05F3766
+character/c_zom_tomb_crusader_2c.gsc (zm_tomb): 0x26C467B8
+character/c_zom_tomb_crusader_2b_nohat.gsc (zm_tomb): 0xF33B29CF
+character/c_zom_tomb_crusader_2b.gsc (zm_tomb): 0x02782155
+character/c_zom_tomb_crusader_1a_nohat.gsc (zm_tomb): 0x3423C80F
+character/c_zom_tomb_crusader_1a.gsc (zm_tomb): 0x4FA29F43
+aitype/zm_tomb_basic_crusader.gsc (zm_tomb): 0x47F5A1BA
+maps/mp/gametypes_zm/zclassic.gsc (patch_zm): 0x2029AA99
+scripts/zm/ranked.gsc (raw (source)): 0xF3FFB92A (0x062E034D)
+maps/mp/zm_tomb_vo.gsc (zm_tomb_patch): 0x240F6F23
+maps/mp/zombies/_zm_ai_quadrotor.gsc (zm_tomb_patch): 0xF78BF8E4
+maps/mp/zombies/_zm_sidequests.gsc (patch_zm): 0xE12391AD
+maps/mp/zm_tomb_amb.gsc (zm_tomb_patch): 0xA4588177
+maps/mp/zombies/_zm_weap_staff_lightning.gsc (zm_tomb_patch): 0xBE9E6296
+maps/mp/zombies/_zm_weap_staff_water.gsc (zm_tomb_patch): 0x94E35A62
+maps/mp/zombies/_zm_weap_staff_fire.gsc (zm_tomb_patch): 0x8497E3C3
+maps/mp/zombies/_zm_weap_one_inch_punch.gsc (zm_tomb_patch): 0xD1CCBDE9
+maps/mp/zombies/_zm_powerup_zombie_blood.gsc (zm_tomb_patch): 0xBCB0AE93
+maps/mp/zm_tomb_challenges.gsc (zm_tomb_patch): 0xBF6ED354
+maps/mp/zm_tomb_chamber.gsc (zm_tomb_patch): 0x0E1E4310
+maps/mp/zm_tomb_ee_main_step_8.gsc (zm_tomb_patch): 0xFF4A687B
+maps/mp/zm_tomb_ee_main_step_6.gsc (zm_tomb_patch): 0xCA048491
+maps/mp/zm_tomb_ee_main_step_5.gsc (zm_tomb_patch): 0x674292E6
+maps/mp/zombies/_zm_ai_mechz_ffotd.gsc (zm_tomb_patch): 0x90DC31E5
+maps/mp/zombies/_zm_ai_mechz_dev.gsc (zm_tomb_patch): 0x5C68F9A5
+maps/mp/zombies/_zm_craftables.gsc (zm_tomb_patch): 0x4521D208
+maps/mp/zm_tomb_tank.gsc (ffotd_tu17_zm_147): 0x2561C5B1
+maps/mp/zombies/_zm_ai_mechz_ft.gsc (zm_tomb_patch): 0x4CD21934
+maps/mp/zombies/_zm_riotshield_tomb.gsc (zm_tomb_patch): 0xA6E5843A
+maps/mp/zombies/_zm_weap_riotshield_tomb.gsc (zm_tomb_patch): 0x224CD51C
+maps/mp/zombies/_zm_ai_mechz_claw.gsc (zm_tomb_patch): 0x668A6F27
+maps/mp/zombies/_zm_ai_mechz.gsc (zm_tomb_patch): 0x63A53FFE
+maps/mp/zombies/_zm_ai_mechz_booster.gsc (zm_tomb_patch): 0x2FFA3C0B
+maps/mp/zm_tomb_ee_main_step_4.gsc (zm_tomb_patch): 0x0395EE0B
+maps/mp/zm_tomb_ee_main_step_3.gsc (zm_tomb_patch): 0xA1DCCEE1
+maps/mp/zm_tomb_ee_main_step_2.gsc (zm_tomb_patch): 0x8B682059
+maps/mp/zm_tomb_ee_main_step_1.gsc (zm_tomb_patch): 0xD2108E44
+maps/mp/zm_tomb_ee_main.gsc (zm_tomb_patch): 0xD0A2905D
+maps/mp/zm_tomb_ee_main_step_7.gsc (zm_tomb_patch): 0xDDBB67F7
+maps/mp/zm_tomb_teleporter.gsc (zm_tomb_patch): 0xD244BA72
+maps/mp/zm_tomb_quest_crypt.gsc (zm_tomb_patch): 0x819EEAC1
+maps/mp/zm_tomb_quest_elec.gsc (zm_tomb_patch): 0xE160D9EC
+maps/mp/zm_tomb_quest_ice.gsc (zm_tomb_patch): 0x5B315B1F
+maps/mp/zm_tomb_quest_fire.gsc (zm_tomb_patch): 0x0A328AD5
+maps/mp/zm_tomb_quest_air.gsc (zm_tomb_patch): 0x7D022D2A
+maps/mp/zm_tomb_main_quest.gsc (zm_tomb_patch): 0x696BC27D
+maps/mp/zm_tomb_craftables.gsc (ffotd_tu17_zm_147): 0xD3F33BF8
+maps/mp/zm_tomb_utility.gsc (zm_tomb_patch): 0xCACEA9F2
+maps/mp/zombies/_zm_challenges.gsc (zm_tomb_patch): 0x6C3E9884
+character/c_jap_takeo_dlc4.gsc (zm_tomb_patch): 0xEFFA477C
+character/c_ger_richtofen_dlc4.gsc (zm_tomb_patch): 0xC99B0C9B
+character/c_rus_nikolai_dlc4.gsc (zm_tomb_patch): 0x6F8F536C
+character/c_usa_dempsey_dlc4.gsc (zm_tomb_patch): 0x010F56C2
+maps/mp/zm_tomb_ee_lights.gsc (zm_tomb_patch): 0xA2162AAD
+maps/mp/zm_tomb_ee_side.gsc (zm_tomb_patch): 0xE85C6F77
+maps/mp/zm_tomb_dig.gsc (zm_tomb_patch): 0xB82E3DDE
+maps/mp/zm_tomb_ambient_scripts.gsc (zm_tomb_patch): 0x199CF1AC
+maps/mp/zombies/_zm_weap_staff_revive.gsc (zm_tomb_patch): 0xDA47B730
+maps/mp/zombies/_zm_weap_beacon.gsc (zm_tomb_patch): 0x9280A2F4
+maps/mp/zombies/_zm_perk_random.gsc (zm_tomb_patch): 0x386E7157
+maps/mp/zombies/_zm_magicbox_tomb.gsc (zm_tomb_patch): 0x54514420
+maps/mp/zm_tomb_distance_tracking.gsc (zm_tomb_patch): 0x07AB6FE4
+maps/mp/zm_tomb_achievement.gsc (zm_tomb_patch): 0x59AB059C
+maps/mp/zombies/_zm_weap_staff_air.gsc (zm_tomb_patch): 0x1E81C21B
+maps/mp/zombies/_zm_perk_electric_cherry.gsc (patch_zm): 0xDF3BAAE1
+maps/mp/zombies/_zm_perk_divetonuke.gsc (zm_tomb_patch): 0x603FA9DF
+maps/mp/animscripts/traverse/shared.gsc (patch_zm): 0x7913AF97
+maps/mp/_global_fx.gsc (patch_zm): 0x7CF025D9
+maps/mp/_art.gsc (patch_zm): 0x2297F2F9
+maps/mp/_serverfaceanim_mp.gsc (patch_zm): 0xEFBD9845
+maps/mp/_fxanim.gsc (patch_zm): 0x5BF76E75
+maps/mp/_interactive_objects.gsc (patch_zm): 0xA58AE7CE
+maps/mp/zombies/_load.gsc (patch_zm): 0x4A63C73D
+maps/mp/zm_tomb_giant_robot_ffotd.gsc (zm_tomb_patch): 0x8671875E
+maps/mp/zm_tomb_giant_robot.gsc (zm_tomb_patch): 0x37F61909
+maps/mp/zm_tomb_capture_zones_ffotd.gsc (zm_tomb_patch): 0xB89E9971
+maps/mp/zm_tomb_capture_zones.gsc (zm_tomb_patch): 0x846CA684
+maps/mp/zm_tomb_ffotd.gsc (ffotd_tu17_zm_147): 0x4E1DFF56
+maps/mp/createfx/zm_tomb_fx.gsc (zm_tomb_patch): 0xAC3007BC
+maps/mp/zm_tomb_fx.gsc (zm_tomb_patch): 0x82F1980A
+maps/mp/zm_tomb_classic.gsc (zm_tomb_patch): 0xE2D8608A
+maps/mp/zm_tomb_gamemodes.gsc (zm_tomb_patch): 0x3DB8B3D9
+maps/mp/zm_tomb.gsc (zm_tomb_patch): 0x8164F88B
+maps/mp/animscripts/traverse/zm_shared.gsc (patch_zm): 0x25E8CB69
+maps/mp/animscripts/traverse/zm_alcove_40.gsc (zm_tomb_patch): 0x851E6941
+maps/mp/animscripts/traverse/zm_jump_down_72.gsc (zm_tomb_patch): 0xCE829A10
+maps/mp/animscripts/traverse/zm_vault_barbedwire_48.gsc (zm_tomb_patch): 0xA6F8B883
+maps/mp/animscripts/traverse/zm_jump_down_48.gsc (zm_tomb_patch): 0xF8AD0F97
+maps/mp/animscripts/traverse/zm_mantle_over_40_hurdle.gsc (zm_tomb_patch): 0x36D39B0A
+maps/mp/animscripts/traverse/zm_jump_down_127.gsc (zm_tomb_patch): 0x40BB32ED
+maps/mp/animscripts/traverse/zm_vault_barbedwire_24.gsc (zm_tomb_patch): 0xE1973DD7
+maps/mp/animscripts/traverse/zm_jump_down_96.gsc (zm_tomb_patch): 0x0E7FA270
+maps/mp/animscripts/traverse/zm_jump_up_127.gsc (zm_tomb_patch): 0x502CE9B1
+maps/mp/animscripts/traverse/zm_scaffold_72.gsc (zm_tomb_patch): 0xDA878AA6
+maps/mp/animscripts/traverse/zm_scaffold_84.gsc (zm_tomb_patch): 0x108DE4E9
+maps/mp/animscripts/traverse/zm_scaffold_100.gsc (zm_tomb_patch): 0x9A1E9A73
+maps/mp/animscripts/traverse/zm_mantle_over_40.gsc (patch_zm): 0x4A233FA3
+maps/mp/animscripts/traverse/zm_jump_down_dlc4_112.gsc (zm_tomb_patch): 0xE0DACD3B
+maps/mp/animscripts/traverse/zm_jump_down_church.gsc (zm_tomb_patch): 0xE3C33161
+maps/mp/animscripts/traverse/zm_jump_up_96.gsc (zm_tomb_patch): 0xD1B957F2
+maps/mp/animscripts/traverse/zm_jump_down_dlc4_120.gsc (zm_tomb_patch): 0x3FBABDAC
+maps/mp/animscripts/traverse/zm_jump_down_dlc4_96.gsc (zm_tomb_patch): 0x8AE7B9B0
+maps/mp/animscripts/traverse/zm_jump_up_48.gsc (zm_tomb_patch): 0xF89F9577
+maps/mp/animscripts/traverse/zm_jump_across_120.gsc (zm_tomb_pat

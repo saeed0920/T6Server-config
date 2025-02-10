@@ -1,0 +1,324 @@
+Bound DW addr to 185.7.212.13:3074
+Bound DW port to 3074
+--- Cmd Initialization Complete ---
+Loading fastfile code_pre_gfx_zm
+Built adjacency info for IPaks 0ms
+[STEAM] 1 calls ready, running...
+[STEAM] running call 1
+----- FS_Startup -----
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/players
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main_shared
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/players
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6//
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/raw
+Current language: english
+Build r4542
+logfile opened on Mon Feb 10 22:26:00 2025
+Current search path:
+Z:\opt\T6Server\Plutonium\storage\t6/raw
+Z:\opt\T6Server\Plutonium\storage\t6//
+Z:\opt\T6Server\Plutonium\storage\t6/players
+Z:\opt\T6Server\Plutonium\storage\t6/main
+Z:\opt\T6Server\Server\Zombie/main
+Z:\opt\T6Server\Server\Zombie/main_shared
+Z:\opt\T6Server\Server\Zombie/players
+execing default_mp.cfg
+execing default_statversion.cfg
+completed execing default_statversion.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+completed execing default_mp.cfg
+execing default_mp_controls_english.cfg
+completed execing default_mp_controls_english.cfg
+r_aaSamples will be changed upon restarting.
+r_fullscreen will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+execing configure.cfg
+r_aspectRatio will be changed upon restarting.
+completed execing configure.cfg
+^1'16' is not a valid value for dvar 'ai_corpseCount'
+  Domain is any integer from 0 to 8
+r_aaSamples will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+Loading fastfile patch_zm
+Loading fastfile code_post_gfx_zm
+Built adjacency info for IPaks 6ms
+execing ragdoll.cfg
+completed execing ragdoll.cfg
+execing default_zm_gamesettings.cfg
+execing default_mp_gamesettings.cfg
+execing zm/gamesettings_default.cfg
+completed execing zm/gamesettings_default.cfg
+execing zm/gamesettings_tdm.cfg
+completed execing zm/gamesettings_tdm.cfg
+execing default_mp_gametypes.cfg
+^3Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_mp_gamesettings.cfg
+execing zm/gamesettings_default.cfg
+completed execing zm/gamesettings_default.cfg
+execing zm/gamesettings_zclassic.cfg
+completed execing zm/gamesettings_zclassic.cfg
+completed execing default_zm_gamesettings.cfg
+bound socket to localhost:21889
+net_port will be changed upon restarting.
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+--- Common Initialization Complete ---
+^3Unknown command "t6zm"
+net_port will be changed upon restarting.
+execing dedicated_zm.cfg
+^3Unknown command "limit"
+^3Unknown command "range"
+^3Unknown command "value"
+addedaddedaddedaddedcompleted execing dedicated_zm.cfg
+Loading fastfile patch_ui_zm
+Loading fastfile ui_zm
+Built adjacency info for IPaks 7ms
+Loading fastfile common_zm
+Loading fastfile ffotd_tu17_zm_147
+Built adjacency info for IPaks 6ms
+Loading fastfile dlczm0_load_zm
+Loading fastfile dlc1_load_zm
+Loading fastfile dlc2_load_zm
+Loading fastfile dlc3_load_zm
+Loading fastfile dlc4_load_zm
+Loading fastfile dlc0dd_load_zm
+Loading fastfile seasonpass_load_zm
+map_rotate...
+"sv_mapRotation" is: "execgts zm_standard_tomb.cfg map zm_tomb"
+"sv_mapRotationCurrent" is: ""
+Executing gts cfg: zm_standard_tomb.cfg.
+Setting map: zm_tomb.
+^1couldn't exec zm_standard_tomb.cfg
+Built adjacency info for IPaks 13ms
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Unloading fastfile ui_zm
+Unloading fastfile patch_ui_zm
+Loaded menu file: ui/t6/dvarleftrightselector.lua
+Loaded menu file: ui_mp/t6/hud/team_marinesopfor.lua
+Loaded menu file: ui_mp/t6/hud/class.lua
+Loaded menu file: ui/t6/menus/optionscontrols.lua
+Loaded menu file: ui/t6/menus/optionssettings.lua
+Loaded menu file: ui/t6/menus/safeareamenu.lua
+Loaded menu file: ui_mp/t6/hud/scoreboard.lua
+Loaded menu file: ui_mp/t6/hud/spectateplayercard.lua
+Loaded menu file: ui_mp/t6/hud/loading.lua
+Loaded menu file: ui_mp/t6/zombie/hudcompetitivescoreboardzombie.lua
+Loaded menu file: ui_mp/t6/zombie/hudcompetitivescoreboardzombieog.lua
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+----- FS_Startup -----
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/players
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main_shared
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/players
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6//
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/raw
+Current language: english
+Current search path:
+Z:\opt\T6Server\Plutonium\storage\t6/raw
+Z:\opt\T6Server\Plutonium\storage\t6//
+Z:\opt\T6Server\Plutonium\storage\t6/players
+Z:\opt\T6Server\Plutonium\storage\t6/main
+Z:\opt\T6Server\Server\Zombie/main
+Z:\opt\T6Server\Server\Zombie/main_shared
+Z:\opt\T6Server\Server\Zombie/players
+Loading fastfile zm_tomb_patch
+Loading fastfile zm_tomb
+Loading fastfile so_zclassic_zm_tomb
+Built adjacency info for IPaks 16ms
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+Initializing game at 02/10/25 22:26:03 +0000
+Current uptime: 00:00:12
+Level time: 0
+Restart: 0
+------- Game Initialization -------
+gamename: PT6ZM
+gamedate: Jan 27 2025
+^1'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Script "scripts/zm/ranked.gsc" loaded successfully
+GSC Executed "scripts/zm/ranked::main()"
+^1'0' is not a valid value for dvar 'bg_shock_viewKickPeriod'
+  Domain is any number from 0.001 to 1000
+GSC Executed "scripts/zm/ranked::init()"
+^3Hitch warning: 3854 msec frame time on main thread
+Received connectReq from '37.129.18.30:2084', sending connectRes
+Received connectGTSReq, sending gts info... 220 bytes
+Received mod dl info! Sending response...
+User with id 5567317 successfully authenticated.
+Letting player with userid 5567317 into the server because the challenge verification completed successfully.
+client 'erfanBokonSaeed' connected
+Received connectReq from '5.125.159.85:45415', sending connectRes
+Received connectGTSReq, sending gts info... 220 bytes
+Received mod dl info! Sending response...
+User with id 5560709 successfully authenticated.
+Letting player with userid 5560709 into the server because the challenge verification completed successfully.
+client 'saeed0920' connected
+Received connectReq from '195.181.113.175:4976', sending connectRes
+Received connectGTSReq, sending gts info... 220 bytes
+Received mod dl info! Sending response...
+User with id 5621372 successfully authenticated.
+Letting player with userid 5621372 into the server because the challenge verification completed successfully.
+client 'Agha kian' connected
+map_rotate...
+"sv_mapRotation" is: "execgts zm_standard_tomb.cfg map zm_tomb"
+"sv_mapRotationCurrent" is: ""
+Executing gts cfg: zm_standard_tomb.cfg.
+Setting map: zm_tomb.
+^1couldn't exec zm_standard_tomb.cfg
+==== ShutdownGame (1) ====
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+----- FS_Startup -----
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/players
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main_shared
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/players
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6//
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/raw
+Current language: english
+Current search path:
+Z:\opt\T6Server\Plutonium\storage\t6/raw
+Z:\opt\T6Server\Plutonium\storage\t6//
+Z:\opt\T6Server\Plutonium\storage\t6/players
+Z:\opt\T6Server\Plutonium\storage\t6/main
+Z:\opt\T6Server\Server\Zombie/main
+Z:\opt\T6Server\Server\Zombie/main_shared
+Z:\opt\T6Server\Server\Zombie/players
+Unloading fastfile zm_tomb
+Unloading fastfile zm_tomb_patch
+Loading fastfile zm_tomb_patch
+Loading fastfile zm_tomb
+Loading fastfile so_zclassic_zm_tomb
+Built adjacency info for IPaks 16ms
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+Initializing game at 02/10/25 22:43:15 +0000
+Current uptime: 00:17:25
+Level time: 1033050
+Restart: 0
+------- Game Initialization -------
+gamename: PT6ZM
+gamedate: Jan 27 2025
+^1'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Script "scripts/zm/ranked.gsc" loaded successfully
+GSC Executed "scripts/zm/ranked::main()"
+^1'0' is not a valid value for dvar 'bg_shock_viewKickPeriod'
+  Domain is any number from 0.001 to 1000
+GSC Executed "scripts/zm/ranked::init()"
+^3Hitch warning: 3187 msec frame time on main thread
+^3Hitch warning: 3195 msec frame time on server thread
+Dropping client num 0: EXE_DISCONNECTED
+client 'erfanBokonSaeed' disconnected
+Dropping client num 2: EXE_DISCONNECTED
+client 'Agha kian' disconnected
+Dropping client num 1: EXE_DISCONNECTED
+client 'saeed0920' disconnected
+map_rotate...
+"sv_mapRotation" is: "execgts zm_standard_tomb.cfg map zm_tomb"
+"sv_mapRotationCurrent" is: ""
+Executing gts cfg: zm_standard_tomb.cfg.
+Setting map: zm_tomb.
+^1couldn't exec zm_standard_tomb.cfg
+==== ShutdownGame (1) ====
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+----- FS_Startup -----
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/players
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main_shared
+Searching for iwds in Z:\opt\T6Server\Server\Zombie/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/main
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/players
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6//
+Searching for iwds in Z:\opt\T6Server\Plutonium\storage\t6/raw
+Current language: english
+Current search path:
+Z:\opt\T6Server\Plutonium\storage\t6/raw
+Z:\opt\T6Server\Plutonium\storage\t6//
+Z:\opt\T6Server\Plutonium\storage\t6/players
+Z:\opt\T6Server\Plutonium\storage\t6/main
+Z:\opt\T6Server\Server\Zombie/main
+Z:\opt\T6Server\Server\Zombie/main_shared
+Z:\opt\T6Server\Server\Zombie/players
+Unloading fastfile zm_tomb
+Unloading fastfile zm_tomb_patch
+Loading fastfile zm_tomb_patch
+Loading fastfile zm_tomb
+Loading fastfile so_zclassic_zm_tomb
+Built adjacency info for IPaks 16ms
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+Initializing game at 02/10/25 22:46:05 +0000
+Current uptime: 00:20:15
+Level time: 1202700
+Restart: 0
+------- Game Initialization -------
+gamename: PT6ZM
+gamedate: Jan 27 2025
+^1'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Script "scripts/zm/ranked.gsc" loaded successfully
+GSC Executed "scripts/zm/ranked::main()"
+^1'0' is not a valid value for dvar 'bg_shock_viewKickPeriod'
+  Domain is any number from 0.001 to 1000
+GSC Executed "scripts/zm/ranked::init()"
+^3Hitch warning: 3051 msec frame time on server thread
+^3Hitch warning: 3051 msec frame time on main thread

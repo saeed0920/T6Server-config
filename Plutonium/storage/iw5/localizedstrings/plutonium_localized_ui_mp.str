@@ -1,0 +1,1142 @@
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           "Generic Plutonium patches."
+
+REFERENCE           GE_MENU_QUICK_CHAT
+LANG_ENGLISH        "Schnell-Chat"
+
+REFERENCE           GE_QUICKMESSAGE_1_COMMANDS
+LANG_ENGLISH        "1. Befehle"
+
+REFERENCE           GE_QUICKMESSAGE_1_ENEMY_SPOTTED
+LANG_ENGLISH        "1. Kontakt!"
+
+REFERENCE           GE_QUICKMESSAGE_1_FOLLOW_ME
+LANG_ENGLISH        "1. Mir nach!"
+
+REFERENCE           GE_QUICKMESSAGE_1_YES_SIR
+LANG_ENGLISH        "1. Verstanden."
+
+REFERENCE           GE_QUICKMESSAGE_2_ENEMY_DOWN
+LANG_ENGLISH        "2. Feind am Boden!"
+
+REFERENCE           GE_QUICKMESSAGE_2_MOVE_IN
+LANG_ENGLISH        "2. Vorw�rts!"
+
+REFERENCE           GE_QUICKMESSAGE_2_MULTIPLE_CONTACTS
+LANG_ENGLISH        "2. Mehrere Kontakte!"
+
+REFERENCE           GE_QUICKMESSAGE_2_NO_SIR
+LANG_ENGLISH        "2. Negativ."
+
+REFERENCE           GE_QUICKMESSAGE_2_STATEMENTS
+LANG_ENGLISH        "2. Kommentare"
+
+REFERENCE           GE_QUICKMESSAGE_3_FALL_BACK
+LANG_ENGLISH        "3. R�ckzug!"
+
+REFERENCE           GE_QUICKMESSAGE_3_IM_IN_POSITION
+LANG_ENGLISH        "3. In Position."
+
+REFERENCE           GE_QUICKMESSAGE_3_IM_ON_MY_WAY
+LANG_ENGLISH        "3. Bewegung."
+
+REFERENCE           GE_QUICKMESSAGE_3_ON_MY_WAY
+LANG_ENGLISH        "3. Unterwegs."
+
+REFERENCE           GE_QUICKMESSAGE_3_RESPONSES
+LANG_ENGLISH        "3. Antworten"
+
+REFERENCE           GE_QUICKMESSAGE_4_AREA_SECURE
+LANG_ENGLISH        "4. Gebiet gesichert!"
+
+REFERENCE           GE_QUICKMESSAGE_4_SORRY
+LANG_ENGLISH        "4. Tut mir Leid."
+
+REFERENCE           GE_QUICKMESSAGE_4_SUPPRESSING_FIRE
+LANG_ENGLISH        "4. Feuerbasis!"
+
+REFERENCE           GE_QUICKMESSAGE_5_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Linke Flanke angreifen!"
+
+REFERENCE           GE_QUICKMESSAGE_5_GREAT_SHOT
+LANG_ENGLISH        "5. Netter Schuss!"
+
+REFERENCE           GE_QUICKMESSAGE_5_GRENADE
+LANG_ENGLISH        "5. Granate!"
+
+REFERENCE           GE_QUICKMESSAGE_5_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Trupp, Angriff linke Flanke!"
+
+REFERENCE           GE_QUICKMESSAGE_5_WATCH_SIX
+LANG_ENGLISH        "5. Achtung, 6 Uhr!"
+
+REFERENCE           GE_QUICKMESSAGE_6_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Rechte Flanke angreifen!"
+
+REFERENCE           GE_QUICKMESSAGE_6_SNIPER
+LANG_ENGLISH        "6. Scharfsch�tze!"
+
+REFERENCE           GE_QUICKMESSAGE_6_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Trupp, Angriff rechte Flanke!"
+
+REFERENCE           GE_QUICKMESSAGE_6_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "6. Na los!"
+
+REFERENCE           GE_QUICKMESSAGE_7_ARE_YOU_CRAZY
+LANG_ENGLISH        "7. Das ist Wahnsinn!"
+
+REFERENCE           GE_QUICKMESSAGE_7_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Diese Position halten!"
+
+REFERENCE           GE_QUICKMESSAGE_7_NEED_REINFORCEMENTS
+LANG_ENGLISH        "7. Brauche Verst�rkung!"
+
+REFERENCE           GE_QUICKMESSAGE_7_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Trupp, Stellung halten!"
+
+REFERENCE           GE_QUICKMESSAGE_8_HOLD_YOUR_FIRE
+LANG_ENGLISH        "8. Feuer einstellen!"
+
+REFERENCE           GE_QUICKMESSAGE_8_REGROUP
+LANG_ENGLISH        "8. Neu formieren!"
+
+REFERENCE           GE_QUICKMESSAGE_8_SQUAD_REGROUP
+LANG_ENGLISH        "8. Trupp, sammeln!"
+
+REFERENCE           GE_QUICKMESSAGE_AREA_SECURE
+LANG_ENGLISH        "Gebiet gesichert!"
+
+REFERENCE           GE_QUICKMESSAGE_ARE_YOU_CRAZY
+LANG_ENGLISH        "Das ist Wahnsinn!"
+
+REFERENCE           GE_QUICKMESSAGE_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Linke Flanke angreifen!"
+
+REFERENCE           GE_QUICKMESSAGE_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Rechte Flanke angreifen!"
+
+REFERENCE           GE_QUICKMESSAGE_COME_ON
+LANG_ENGLISH        "Na los."
+
+REFERENCE           GE_QUICKMESSAGE_ENEMIES_SPOTTED
+LANG_ENGLISH        "Mehrere Kontakte!"
+
+REFERENCE           GE_QUICKMESSAGE_ENEMY_DOWN
+LANG_ENGLISH        "Feind am Boden!"
+
+REFERENCE           GE_QUICKMESSAGE_ENEMY_GRENADE
+LANG_ENGLISH        "Feindliche Granate!"
+
+REFERENCE           GE_QUICKMESSAGE_ENEMY_SPOTTED
+LANG_ENGLISH        "Kontakt!"
+
+REFERENCE           GE_QUICKMESSAGE_ESC_EXIT
+LANG_ENGLISH        "Esc. Beenden"
+
+REFERENCE           GE_QUICKMESSAGE_FALL_BACK
+LANG_ENGLISH        "R�ckzug!"
+
+REFERENCE           GE_QUICKMESSAGE_FOLLOW_ME
+LANG_ENGLISH        "Mir nach!"
+
+REFERENCE           GE_QUICKMESSAGE_GREAT_SHOT
+LANG_ENGLISH        "Netter Schuss!"
+
+REFERENCE           GE_QUICKMESSAGE_GRENADE
+LANG_ENGLISH        "Granate!"
+
+REFERENCE           GE_QUICKMESSAGE_HOLD_THIS_POSITION
+LANG_ENGLISH        "Stellung halten!!!"
+
+REFERENCE           GE_QUICKMESSAGE_HOLD_YOUR_FIRE
+LANG_ENGLISH        "Feuer einstellen!"
+
+REFERENCE           GE_QUICKMESSAGE_IM_IN_POSITION
+LANG_ENGLISH        "In Position."
+
+REFERENCE           GE_QUICKMESSAGE_IM_ON_MY_WAY
+LANG_ENGLISH        "Unterwegs."
+
+REFERENCE           GE_QUICKMESSAGE_MOVE_IN
+LANG_ENGLISH        "Vorw�rts!"
+
+REFERENCE           GE_QUICKMESSAGE_NEED_REINFORCEMENTS
+LANG_ENGLISH        "Brauche Verst�rkung!"
+
+REFERENCE           GE_QUICKMESSAGE_NO_SIR
+LANG_ENGLISH        "Negativ."
+
+REFERENCE           GE_QUICKMESSAGE_ON_MY_WAY
+LANG_ENGLISH        "Unterwegs."
+
+REFERENCE           GE_QUICKMESSAGE_QUICK_MESSAGE
+LANG_ENGLISH        "Schnellnachricht"
+
+REFERENCE           GE_QUICKMESSAGE_REGROUP
+LANG_ENGLISH        "Neu formieren!"
+
+REFERENCE           GE_QUICKMESSAGE_SNIPER
+LANG_ENGLISH        "Scharfsch�tze!"
+
+REFERENCE           GE_QUICKMESSAGE_SORRY
+LANG_ENGLISH        "Tut mir Leid."
+
+REFERENCE           GE_QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Trupp, Angriff linke Flanke!"
+
+REFERENCE           GE_QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Trupp, Angriff rechte Flanke!"
+
+REFERENCE           GE_QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "Trupp, Stellung halten!"
+
+REFERENCE           GE_QUICKMESSAGE_SQUAD_REGROUP
+LANG_ENGLISH        "Trupp, sammeln!"
+
+REFERENCE           GE_QUICKMESSAGE_SQUAD_STICK_TOGETHER
+LANG_ENGLISH        "Zusammenbleiben!"
+
+REFERENCE           GE_QUICKMESSAGE_STICK_TOGETHER
+LANG_ENGLISH        "Zusammenbleiben!"
+
+REFERENCE           GE_QUICKMESSAGE_SUPPRESSING_FIRE
+LANG_ENGLISH        "Feuerbasis!"
+
+REFERENCE           GE_QUICKMESSAGE_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "Wurde aber auch Zeit!"
+
+REFERENCE           GE_QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH
+LANG_ENGLISH        "Wurde aber auch Zeit!"
+
+REFERENCE           GE_QUICKMESSAGE_WATCH_SIX
+LANG_ENGLISH        "Achtung, 6 Uhr!"
+
+REFERENCE           GE_QUICKMESSAGE_YES_SIR
+LANG_ENGLISH        "Verstanden."
+
+REFERENCE           GE_QUICKMESSAGE_YOURE_CRAZY
+LANG_ENGLISH        "Das ist Wahnsinn!"
+
+REFERENCE           GE_QUICKMESSAGE_YOURE_NUTS
+LANG_ENGLISH        "Einfach verr�ckt!"
+
+REFERENCE           GE_QUICKMESSAGE_YOU_OUTTA_YOUR_MIND
+LANG_ENGLISH        "Das ist verr�ckt!"
+
+REFERENCE           EN_MENU_QUICK_CHAT
+LANG_ENGLISH        "Quick Chat"
+
+REFERENCE           EN_MENU_QUICK_CHAT_CAPS
+LANG_ENGLISH        "QUICK CHAT"
+
+REFERENCE           EN_QUICKMESSAGE_1_COMMANDS
+LANG_ENGLISH        "1. Commands"
+
+REFERENCE           EN_QUICKMESSAGE_1_ENEMY_SPOTTED
+LANG_ENGLISH        "1. Contact!"
+
+REFERENCE           EN_QUICKMESSAGE_1_FOLLOW_ME
+LANG_ENGLISH        "1. On me!"
+
+REFERENCE           EN_QUICKMESSAGE_1_YES_SIR
+LANG_ENGLISH        "1. Roger."
+
+REFERENCE           EN_QUICKMESSAGE_2_ENEMY_DOWN
+LANG_ENGLISH        "2. Enemy down!"
+
+REFERENCE           EN_QUICKMESSAGE_2_MOVE_IN
+LANG_ENGLISH        "2. Move in!"
+
+REFERENCE           EN_QUICKMESSAGE_2_MULTIPLE_CONTACTS
+LANG_ENGLISH        "2. Multiple contacts!"
+
+REFERENCE           EN_QUICKMESSAGE_2_NO_SIR
+LANG_ENGLISH        "2. Negative."
+
+REFERENCE           EN_QUICKMESSAGE_2_STATEMENTS
+LANG_ENGLISH        "2. Statements"
+
+REFERENCE           EN_QUICKMESSAGE_3_FALL_BACK
+LANG_ENGLISH        "3. Fall back!"
+
+REFERENCE           EN_QUICKMESSAGE_3_IM_IN_POSITION
+LANG_ENGLISH        "3. In position."
+
+REFERENCE           EN_QUICKMESSAGE_3_IM_ON_MY_WAY
+LANG_ENGLISH        "3. Moving."
+
+REFERENCE           EN_QUICKMESSAGE_3_ON_MY_WAY
+LANG_ENGLISH        "3. On my way."
+
+REFERENCE           EN_QUICKMESSAGE_3_RESPONSES
+LANG_ENGLISH        "3. Responses"
+
+REFERENCE           EN_QUICKMESSAGE_4_AREA_SECURE
+LANG_ENGLISH        "4. Area secure!"
+
+REFERENCE           EN_QUICKMESSAGE_4_SORRY
+LANG_ENGLISH        "4. Sorry."
+
+REFERENCE           EN_QUICKMESSAGE_4_SUPPRESSING_FIRE
+LANG_ENGLISH        "4. Base of fire!"
+
+REFERENCE           EN_QUICKMESSAGE_5_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Attack left flank!"
+
+REFERENCE           EN_QUICKMESSAGE_5_GREAT_SHOT
+LANG_ENGLISH        "5. Nice shot!"
+
+REFERENCE           EN_QUICKMESSAGE_5_GRENADE
+LANG_ENGLISH        "5. Grenade!"
+
+REFERENCE           EN_QUICKMESSAGE_5_WATCH_SIX
+LANG_ENGLISH        "5. Watch your six!"
+
+REFERENCE           EN_QUICKMESSAGE_6_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Attack right flank!"
+
+REFERENCE           EN_QUICKMESSAGE_6_SNIPER
+LANG_ENGLISH        "6. Sniper!"
+
+REFERENCE           EN_QUICKMESSAGE_6_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "6. Come on!"
+
+REFERENCE           EN_QUICKMESSAGE_7_ARE_YOU_CRAZY
+LANG_ENGLISH        "7. Are you crazy?"
+
+REFERENCE           EN_QUICKMESSAGE_7_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Hold this position!"
+
+REFERENCE           EN_QUICKMESSAGE_7_NEED_REINFORCEMENTS
+LANG_ENGLISH        "7. Need reinforcements!"
+
+REFERENCE           EN_QUICKMESSAGE_8_HOLD_YOUR_FIRE
+LANG_ENGLISH        "8. Hold your fire!"
+
+REFERENCE           EN_QUICKMESSAGE_8_REGROUP
+LANG_ENGLISH        "8. Regroup!"
+
+REFERENCE           EN_QUICKMESSAGE_AREA_SECURE
+LANG_ENGLISH        "Area secure!"
+
+REFERENCE           EN_QUICKMESSAGE_ARE_YOU_CRAZY
+LANG_ENGLISH        "Are you crazy?"
+
+REFERENCE           EN_QUICKMESSAGE_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Attack left flank!"
+
+REFERENCE           EN_QUICKMESSAGE_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Attack right flank!"
+
+REFERENCE           EN_QUICKMESSAGE_COME_ON
+LANG_ENGLISH        "Come on."
+
+REFERENCE           EN_QUICKMESSAGE_ENEMIES_SPOTTED
+LANG_ENGLISH        "Multiple contacts!"
+
+REFERENCE           EN_QUICKMESSAGE_ENEMY_DOWN
+LANG_ENGLISH        "Enemy down!"
+
+REFERENCE           EN_QUICKMESSAGE_ENEMY_GRENADE
+LANG_ENGLISH        "Enemy grenade!"
+
+REFERENCE           EN_QUICKMESSAGE_ENEMY_SPOTTED
+LANG_ENGLISH        "Contact!"
+
+REFERENCE           EN_QUICKMESSAGE_ESC_EXIT
+LANG_ENGLISH        "Esc. Exit"
+
+REFERENCE           EN_QUICKMESSAGE_FALL_BACK
+LANG_ENGLISH        "Fall back!"
+
+REFERENCE           EN_QUICKMESSAGE_FOLLOW_ME
+LANG_ENGLISH        "On me!"
+
+REFERENCE           EN_QUICKMESSAGE_GREAT_SHOT
+LANG_ENGLISH        "Nice shot!"
+
+REFERENCE           EN_QUICKMESSAGE_GRENADE
+LANG_ENGLISH        "Grenade!"
+
+REFERENCE           EN_QUICKMESSAGE_HOLD_THIS_POSITION
+LANG_ENGLISH        "Hold this position!"
+
+REFERENCE           EN_QUICKMESSAGE_HOLD_YOUR_FIRE
+LANG_ENGLISH        "Hold your fire!"
+
+REFERENCE           EN_QUICKMESSAGE_IM_IN_POSITION
+LANG_ENGLISH        "In position."
+
+REFERENCE           EN_QUICKMESSAGE_IM_ON_MY_WAY
+LANG_ENGLISH        "Moving."
+
+REFERENCE           EN_QUICKMESSAGE_MOVE_IN
+LANG_ENGLISH        "Move in!"
+
+REFERENCE           EN_QUICKMESSAGE_NEED_REINFORCEMENTS
+LANG_ENGLISH        "Need reinforcements!"
+
+REFERENCE           EN_QUICKMESSAGE_NO_SIR
+LANG_ENGLISH        "Negative."
+
+REFERENCE           EN_QUICKMESSAGE_ON_MY_WAY
+LANG_ENGLISH        "On my way."
+
+REFERENCE           EN_QUICKMESSAGE_QUICK_MESSAGE
+LANG_ENGLISH        "Quick Message"
+
+REFERENCE           EN_QUICKMESSAGE_REGROUP
+LANG_ENGLISH        "Regroup!"
+
+REFERENCE           EN_QUICKMESSAGE_SNIPER
+LANG_ENGLISH        "Sniper!"
+
+REFERENCE           EN_QUICKMESSAGE_SORRY
+LANG_ENGLISH        "Sorry."
+
+REFERENCE           EN_QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Squad, attack left flank!"
+
+REFERENCE           EN_QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Squad, attack right flank!"
+
+REFERENCE           EN_QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "Squad, hold this position!"
+
+REFERENCE           EN_QUICKMESSAGE_SQUAD_REGROUP
+LANG_ENGLISH        "Squad, regroup!"
+
+REFERENCE           EN_QUICKMESSAGE_SQUAD_STICK_TOGETHER
+LANG_ENGLISH        "Squad, stick together!"
+
+REFERENCE           EN_QUICKMESSAGE_STICK_TOGETHER
+LANG_ENGLISH        "Stick together!"
+
+REFERENCE           EN_QUICKMESSAGE_SUPPRESSING_FIRE
+LANG_ENGLISH        "Base of fire!"
+
+REFERENCE           EN_QUICKMESSAGE_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "Took long enough!"
+
+REFERENCE           EN_QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH
+LANG_ENGLISH        "Took you long enough!"
+
+REFERENCE           EN_QUICKMESSAGE_WATCH_SIX
+LANG_ENGLISH        "Watch your six!"
+
+REFERENCE           EN_QUICKMESSAGE_YES_SIR
+LANG_ENGLISH        "Roger."
+
+REFERENCE           EN_QUICKMESSAGE_YOURE_CRAZY
+LANG_ENGLISH        "You're crazy!"
+
+REFERENCE           EN_QUICKMESSAGE_YOURE_NUTS
+LANG_ENGLISH        "You're nuts!"
+
+REFERENCE           EN_QUICKMESSAGE_YOU_OUTTA_YOUR_MIND
+LANG_ENGLISH        "You outta your mind?"
+
+REFERENCE           SP_MENU_QUICK_CHAT
+LANG_ENGLISH        "Chat r�pido"
+
+REFERENCE           SP_QUICKMESSAGE_1_COMMANDS
+LANG_ENGLISH        "1. �rdenes"
+
+REFERENCE           SP_QUICKMESSAGE_1_ENEMY_SPOTTED
+LANG_ENGLISH        "1. �Enemigo a la vista!"
+
+REFERENCE           SP_QUICKMESSAGE_1_FOLLOW_ME
+LANG_ENGLISH        "1. �Seguidme!"
+
+REFERENCE           SP_QUICKMESSAGE_1_YES_SIR
+LANG_ENGLISH        "1. �S�, se�or!"
+
+REFERENCE           SP_QUICKMESSAGE_2_ENEMY_DOWN
+LANG_ENGLISH        "2. �Enemigo abatido!"
+
+REFERENCE           SP_QUICKMESSAGE_2_MOVE_IN
+LANG_ENGLISH        "2. �Avanzad!"
+
+REFERENCE           SP_QUICKMESSAGE_2_MULTIPLE_CONTACTS
+LANG_ENGLISH        "2. �Contactos m�ltiples!"
+
+REFERENCE           SP_QUICKMESSAGE_2_NO_SIR
+LANG_ENGLISH        "2. �No, se�or!"
+
+REFERENCE           SP_QUICKMESSAGE_2_STATEMENTS
+LANG_ENGLISH        "2. Declaraciones"
+
+REFERENCE           SP_QUICKMESSAGE_3_FALL_BACK
+LANG_ENGLISH        "3. �Retirada!"
+
+REFERENCE           SP_QUICKMESSAGE_3_IM_IN_POSITION
+LANG_ENGLISH        "3. Estoy en posici�n."
+
+REFERENCE           SP_QUICKMESSAGE_3_IM_ON_MY_WAY
+LANG_ENGLISH        "3. Voy de camino."
+
+REFERENCE           SP_QUICKMESSAGE_3_ON_MY_WAY
+LANG_ENGLISH        "3. Voy para all�."
+
+REFERENCE           SP_QUICKMESSAGE_3_RESPONSES
+LANG_ENGLISH        "3. Respuestas"
+
+REFERENCE           SP_QUICKMESSAGE_4_AREA_SECURE
+LANG_ENGLISH        "4. ��rea segura!"
+
+REFERENCE           SP_QUICKMESSAGE_4_SORRY
+LANG_ENGLISH        "4. Lo siento."
+
+REFERENCE           SP_QUICKMESSAGE_4_SUPPRESSING_FIRE
+LANG_ENGLISH        "4. �Fuego de contenci�n!"
+
+REFERENCE           SP_QUICKMESSAGE_5_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. �Atacad por el flanco izq.!"
+
+REFERENCE           SP_QUICKMESSAGE_5_GREAT_SHOT
+LANG_ENGLISH        "5. �Buen tiro!"
+
+REFERENCE           SP_QUICKMESSAGE_5_GRENADE
+LANG_ENGLISH        "5. �Granada!"
+
+REFERENCE           SP_QUICKMESSAGE_5_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. �Pelot�n, atacad el flanco izquierdo!"
+
+REFERENCE           SP_QUICKMESSAGE_5_WATCH_SIX
+LANG_ENGLISH        "5. �Vigila tus seis!"
+
+REFERENCE           SP_QUICKMESSAGE_6_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. �Atacad el flanco derecho!"
+
+REFERENCE           SP_QUICKMESSAGE_6_SNIPER
+LANG_ENGLISH        "6. �Francotirador!"
+
+REFERENCE           SP_QUICKMESSAGE_6_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. �Pelot�n, atacad el flanco derecho!"
+
+REFERENCE           SP_QUICKMESSAGE_6_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "6. �Venga!"
+
+REFERENCE           SP_QUICKMESSAGE_7_ARE_YOU_CRAZY
+LANG_ENGLISH        "7. �Est�s loco?"
+
+REFERENCE           SP_QUICKMESSAGE_7_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. �Mantened la posici�n!"
+
+REFERENCE           SP_QUICKMESSAGE_7_NEED_REINFORCEMENTS
+LANG_ENGLISH        "7. �Necesito refuerzos!"
+
+REFERENCE           SP_QUICKMESSAGE_7_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Pelot�n, �mantened la posici�n!"
+
+REFERENCE           SP_QUICKMESSAGE_8_HOLD_YOUR_FIRE
+LANG_ENGLISH        "8. �Alto el fuego!"
+
+REFERENCE           SP_QUICKMESSAGE_8_REGROUP
+LANG_ENGLISH        "8. �Reagrupaos!"
+
+REFERENCE           SP_QUICKMESSAGE_8_SQUAD_REGROUP
+LANG_ENGLISH        "8. �Pelot�n, reagrupaos!"
+
+REFERENCE           SP_QUICKMESSAGE_AREA_SECURE
+LANG_ENGLISH        "��rea segura!"
+
+REFERENCE           SP_QUICKMESSAGE_ARE_YOU_CRAZY
+LANG_ENGLISH        "�Est�s loco?"
+
+REFERENCE           SP_QUICKMESSAGE_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "�Atacad por el flanco izquierdo!"
+
+REFERENCE           SP_QUICKMESSAGE_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "�Atacad el flanco derecho!"
+
+REFERENCE           SP_QUICKMESSAGE_COME_ON
+LANG_ENGLISH        "Venga."
+
+REFERENCE           SP_QUICKMESSAGE_ENEMIES_SPOTTED
+LANG_ENGLISH        "�Contactos m�ltiples!"
+
+REFERENCE           SP_QUICKMESSAGE_ENEMY_DOWN
+LANG_ENGLISH        "�Enemigo abatido!"
+
+REFERENCE           SP_QUICKMESSAGE_ENEMY_GRENADE
+LANG_ENGLISH        "�Granada enemiga!"
+
+REFERENCE           SP_QUICKMESSAGE_ENEMY_SPOTTED
+LANG_ENGLISH        "�Enemigo a la vista!"
+
+REFERENCE           SP_QUICKMESSAGE_ESC_EXIT
+LANG_ENGLISH        "Esc. Salir"
+
+REFERENCE           SP_QUICKMESSAGE_FALL_BACK
+LANG_ENGLISH        "�Retirada!"
+
+REFERENCE           SP_QUICKMESSAGE_FOLLOW_ME
+LANG_ENGLISH        "�Seguidme!"
+
+REFERENCE           SP_QUICKMESSAGE_GREAT_SHOT
+LANG_ENGLISH        "�Buen disparo!"
+
+REFERENCE           SP_QUICKMESSAGE_GRENADE
+LANG_ENGLISH        "�Granada!"
+
+REFERENCE           SP_QUICKMESSAGE_HOLD_THIS_POSITION
+LANG_ENGLISH        "�Mantened la posici�n!"
+
+REFERENCE           SP_QUICKMESSAGE_HOLD_YOUR_FIRE
+LANG_ENGLISH        "�Alto el fuego!"
+
+REFERENCE           SP_QUICKMESSAGE_IM_IN_POSITION
+LANG_ENGLISH        "Estoy en posici�n."
+
+REFERENCE           SP_QUICKMESSAGE_IM_ON_MY_WAY
+LANG_ENGLISH        "Voy de camino."
+
+REFERENCE           SP_QUICKMESSAGE_MOVE_IN
+LANG_ENGLISH        "�Avanzad!"
+
+REFERENCE           SP_QUICKMESSAGE_NEED_REINFORCEMENTS
+LANG_ENGLISH        "�Necesito refuerzos!"
+
+REFERENCE           SP_QUICKMESSAGE_NO_SIR
+LANG_ENGLISH        "�No, se�or!"
+
+REFERENCE           SP_QUICKMESSAGE_ON_MY_WAY
+LANG_ENGLISH        "Voy de camino."
+
+REFERENCE           SP_QUICKMESSAGE_QUICK_MESSAGE
+LANG_ENGLISH        "Mensaje r�pido"
+
+REFERENCE           SP_QUICKMESSAGE_REGROUP
+LANG_ENGLISH        "�Reagrupaos!"
+
+REFERENCE           SP_QUICKMESSAGE_SNIPER
+LANG_ENGLISH        "�Francotirador!"
+
+REFERENCE           SP_QUICKMESSAGE_SORRY
+LANG_ENGLISH        "Lo siento."
+
+REFERENCE           SP_QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "�Pelot�n, atacad el flanco izquierdo!"
+
+REFERENCE           SP_QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "�Pelot�n, atacad el flanco derecho!"
+
+REFERENCE           SP_QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "Pelot�n, �mantened la posici�n!"
+
+REFERENCE           SP_QUICKMESSAGE_SQUAD_REGROUP
+LANG_ENGLISH        "�Pelot�n, reagrupaos!"
+
+REFERENCE           SP_QUICKMESSAGE_SQUAD_STICK_TOGETHER
+LANG_ENGLISH        "�Pelot�n, no os separ�is!"
+
+REFERENCE           SP_QUICKMESSAGE_STICK_TOGETHER
+LANG_ENGLISH        "�No os separ�is!"
+
+REFERENCE           SP_QUICKMESSAGE_SUPPRESSING_FIRE
+LANG_ENGLISH        "�Fuego de contenci�n!"
+
+REFERENCE           SP_QUICKMESSAGE_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "�Ya era hora!"
+
+REFERENCE           SP_QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH
+LANG_ENGLISH        "�S� que has tardado!"
+
+REFERENCE           SP_QUICKMESSAGE_WATCH_SIX
+LANG_ENGLISH        "�Vigila tus seis!"
+
+REFERENCE           SP_QUICKMESSAGE_YES_SIR
+LANG_ENGLISH        "�S�, se�or!"
+
+REFERENCE           SP_QUICKMESSAGE_YOURE_CRAZY
+LANG_ENGLISH        "�Est�s loco!"
+
+REFERENCE           SP_QUICKMESSAGE_YOURE_NUTS
+LANG_ENGLISH        "�Est�s chiflado!"
+
+REFERENCE           SP_QUICKMESSAGE_YOU_OUTTA_YOUR_MIND
+LANG_ENGLISH        "�Has perdido la cabeza?"
+
+REFERENCE           FR_MENU_QUICK_CHAT
+LANG_ENGLISH        "Chat rapide"
+
+REFERENCE           FR_QUICKMESSAGE_1_COMMANDS
+LANG_ENGLISH        "1. Ordres"
+
+REFERENCE           FR_QUICKMESSAGE_1_ENEMY_SPOTTED
+LANG_ENGLISH        "1. Ennemi rep�r� !"
+
+REFERENCE           FR_QUICKMESSAGE_1_FOLLOW_ME
+LANG_ENGLISH        "1. Suivez-moi !"
+
+REFERENCE           FR_QUICKMESSAGE_1_YES_SIR
+LANG_ENGLISH        "1. � vos ordres !"
+
+REFERENCE           FR_QUICKMESSAGE_2_ENEMY_DOWN
+LANG_ENGLISH        "2. Ennemi � terre !"
+
+REFERENCE           FR_QUICKMESSAGE_2_MOVE_IN
+LANG_ENGLISH        "2. Avancez !"
+
+REFERENCE           FR_QUICKMESSAGE_2_MULTIPLE_CONTACTS
+LANG_ENGLISH        "2. Contacts multiples !"
+
+REFERENCE           FR_QUICKMESSAGE_2_NO_SIR
+LANG_ENGLISH        "2. Non !"
+
+REFERENCE           FR_QUICKMESSAGE_2_STATEMENTS
+LANG_ENGLISH        "2. Affirmations"
+
+REFERENCE           FR_QUICKMESSAGE_3_FALL_BACK
+LANG_ENGLISH        "3. On se replie !"
+
+REFERENCE           FR_QUICKMESSAGE_3_IM_IN_POSITION
+LANG_ENGLISH        "3. En position."
+
+REFERENCE           FR_QUICKMESSAGE_3_IM_ON_MY_WAY
+LANG_ENGLISH        "3. Je suis en route !"
+
+REFERENCE           FR_QUICKMESSAGE_3_ON_MY_WAY
+LANG_ENGLISH        "3. J'arrive !"
+
+REFERENCE           FR_QUICKMESSAGE_3_RESPONSES
+LANG_ENGLISH        "3. R�ponses"
+
+REFERENCE           FR_QUICKMESSAGE_4_AREA_SECURE
+LANG_ENGLISH        "4. Secteur s�curis� !"
+
+REFERENCE           FR_QUICKMESSAGE_4_SORRY
+LANG_ENGLISH        "4. D�sol�."
+
+REFERENCE           FR_QUICKMESSAGE_4_SUPPRESSING_FIRE
+LANG_ENGLISH        "4. Tir de suppression !"
+
+REFERENCE           FR_QUICKMESSAGE_5_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Attaquez le flanc gauche !"
+
+REFERENCE           FR_QUICKMESSAGE_5_GREAT_SHOT
+LANG_ENGLISH        "5. Dans le mille !"
+
+REFERENCE           FR_QUICKMESSAGE_5_GRENADE
+LANG_ENGLISH        "5. Grenade !"
+
+REFERENCE           FR_QUICKMESSAGE_5_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Section, attaquez le flanc gauche !"
+
+REFERENCE           FR_QUICKMESSAGE_5_WATCH_SIX
+LANG_ENGLISH        "5. � six heures !"
+
+REFERENCE           FR_QUICKMESSAGE_6_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Attaquez le flanc droit !"
+
+REFERENCE           FR_QUICKMESSAGE_6_SNIPER
+LANG_ENGLISH        "6. Tireur embusqu� !"
+
+REFERENCE           FR_QUICKMESSAGE_6_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Section, attaquez le flanc droit !"
+
+REFERENCE           FR_QUICKMESSAGE_6_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "6. �a a pris du temps !"
+
+REFERENCE           FR_QUICKMESSAGE_7_ARE_YOU_CRAZY
+LANG_ENGLISH        "7. �a va pas, non ?"
+
+REFERENCE           FR_QUICKMESSAGE_7_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Tenez cette position !"
+
+REFERENCE           FR_QUICKMESSAGE_7_NEED_REINFORCEMENTS
+LANG_ENGLISH        "7. On a besoin de renforts !"
+
+REFERENCE           FR_QUICKMESSAGE_7_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Section, tenez la position !"
+
+REFERENCE           FR_QUICKMESSAGE_8_HOLD_YOUR_FIRE
+LANG_ENGLISH        "8. Cessez le tir !"
+
+REFERENCE           FR_QUICKMESSAGE_8_REGROUP
+LANG_ENGLISH        "8. On se regroupe !"
+
+REFERENCE           FR_QUICKMESSAGE_8_SQUAD_REGROUP
+LANG_ENGLISH        "8. Section, regroupez-vous !"
+
+REFERENCE           FR_QUICKMESSAGE_AREA_SECURE
+LANG_ENGLISH        "Secteur s�curis� !"
+
+REFERENCE           FR_QUICKMESSAGE_ARE_YOU_CRAZY
+LANG_ENGLISH        "�a va pas, non ?"
+
+REFERENCE           FR_QUICKMESSAGE_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Attaquez sur la gauche !"
+
+REFERENCE           FR_QUICKMESSAGE_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Attaquez sur la droite !"
+
+REFERENCE           FR_QUICKMESSAGE_COME_ON
+LANG_ENGLISH        "�a a pris du temps !"
+
+REFERENCE           FR_QUICKMESSAGE_ENEMIES_SPOTTED
+LANG_ENGLISH        "Contacts multiples !"
+
+REFERENCE           FR_QUICKMESSAGE_ENEMY_DOWN
+LANG_ENGLISH        "Ennemi � terre !"
+
+REFERENCE           FR_QUICKMESSAGE_ENEMY_GRENADE
+LANG_ENGLISH        "Grenade ennemie !"
+
+REFERENCE           FR_QUICKMESSAGE_ENEMY_SPOTTED
+LANG_ENGLISH        "Ennemi rep�r� !"
+
+REFERENCE           FR_QUICKMESSAGE_ESC_EXIT
+LANG_ENGLISH        "�chap. Quitter"
+
+REFERENCE           FR_QUICKMESSAGE_FALL_BACK
+LANG_ENGLISH        "Repliez-vous !"
+
+REFERENCE           FR_QUICKMESSAGE_FOLLOW_ME
+LANG_ENGLISH        "Suivez-moi !"
+
+REFERENCE           FR_QUICKMESSAGE_GREAT_SHOT
+LANG_ENGLISH        "Dans le mille !"
+
+REFERENCE           FR_QUICKMESSAGE_GRENADE
+LANG_ENGLISH        "Grenade !"
+
+REFERENCE           FR_QUICKMESSAGE_HOLD_THIS_POSITION
+LANG_ENGLISH        "Tenez cette position !"
+
+REFERENCE           FR_QUICKMESSAGE_HOLD_YOUR_FIRE
+LANG_ENGLISH        "Arr�tez de tirer ! "
+
+REFERENCE           FR_QUICKMESSAGE_IM_IN_POSITION
+LANG_ENGLISH        "Je suis en position."
+
+REFERENCE           FR_QUICKMESSAGE_IM_ON_MY_WAY
+LANG_ENGLISH        "Je suis en route !"
+
+REFERENCE           FR_QUICKMESSAGE_MOVE_IN
+LANG_ENGLISH        "Avancez !"
+
+REFERENCE           FR_QUICKMESSAGE_NEED_REINFORCEMENTS
+LANG_ENGLISH        "On a besoin de renforts !"
+
+REFERENCE           FR_QUICKMESSAGE_NO_SIR
+LANG_ENGLISH        "Non !"
+
+REFERENCE           FR_QUICKMESSAGE_ON_MY_WAY
+LANG_ENGLISH        "J'arrive !"
+
+REFERENCE           FR_QUICKMESSAGE_QUICK_MESSAGE
+LANG_ENGLISH        "Message rapide"
+
+REFERENCE           FR_QUICKMESSAGE_REGROUP
+LANG_ENGLISH        "On se regroupe !"
+
+REFERENCE           FR_QUICKMESSAGE_SNIPER
+LANG_ENGLISH        "Tireur embusqu� !"
+
+REFERENCE           FR_QUICKMESSAGE_SORRY
+LANG_ENGLISH        "D�sol�."
+
+REFERENCE           FR_QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Section, attaquez le flanc gauche !"
+
+REFERENCE           FR_QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Section, attaquez le flanc droit !"
+
+REFERENCE           FR_QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "Section, tenez la position !"
+
+REFERENCE           FR_QUICKMESSAGE_SQUAD_REGROUP
+LANG_ENGLISH        "Section, regroupez-vous !"
+
+REFERENCE           FR_QUICKMESSAGE_SQUAD_STICK_TOGETHER
+LANG_ENGLISH        "Section, restez group�s !"
+
+REFERENCE           FR_QUICKMESSAGE_STICK_TOGETHER
+LANG_ENGLISH        "Restez group�s !"
+
+REFERENCE           FR_QUICKMESSAGE_SUPPRESSING_FIRE
+LANG_ENGLISH        "Tir de suppression !"
+
+REFERENCE           FR_QUICKMESSAGE_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "�a a pris du temps !"
+
+REFERENCE           FR_QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH
+LANG_ENGLISH        "Vous en avez mis du temps !"
+
+REFERENCE           FR_QUICKMESSAGE_WATCH_SIX
+LANG_ENGLISH        "� six heures !"
+
+REFERENCE           FR_QUICKMESSAGE_YES_SIR
+LANG_ENGLISH        "Oui, chef !"
+
+REFERENCE           FR_QUICKMESSAGE_YOURE_CRAZY
+LANG_ENGLISH        "Vous �tes fou !"
+
+REFERENCE           FR_QUICKMESSAGE_YOURE_NUTS
+LANG_ENGLISH        "Vous �tes cingl�s !"
+
+REFERENCE           FR_QUICKMESSAGE_YOU_OUTTA_YOUR_MIND
+LANG_ENGLISH        "�a va pas la t�te ?"
+
+REFERENCE           IT_MENU_QUICK_CHAT
+LANG_ENGLISH        "Chat veloce"
+
+REFERENCE           IT_MENU_QUICK_CHAT_CAPS
+LANG_ENGLISH        "CHAT VELOCE"
+
+REFERENCE           IT_QUICKMESSAGE_1_COMMANDS
+LANG_ENGLISH        "1. Comandi"
+
+REFERENCE           IT_QUICKMESSAGE_1_ENEMY_SPOTTED
+LANG_ENGLISH        "1. Nemico avvistato!"
+
+REFERENCE           IT_QUICKMESSAGE_1_FOLLOW_ME
+LANG_ENGLISH        "1. Seguitemi!"
+
+REFERENCE           IT_QUICKMESSAGE_1_YES_SIR
+LANG_ENGLISH        "1. Sissignore!"
+
+REFERENCE           IT_QUICKMESSAGE_2_ENEMY_DOWN
+LANG_ENGLISH        "2. Nemico eliminato!"
+
+REFERENCE           IT_QUICKMESSAGE_2_MOVE_IN
+LANG_ENGLISH        "2. Avanti!"
+
+REFERENCE           IT_QUICKMESSAGE_2_MULTIPLE_CONTACTS
+LANG_ENGLISH        "2. Contatti multipli!"
+
+REFERENCE           IT_QUICKMESSAGE_2_NO_SIR
+LANG_ENGLISH        "2. No, signore!"
+
+REFERENCE           IT_QUICKMESSAGE_2_STATEMENTS
+LANG_ENGLISH        "2. Affermazioni"
+
+REFERENCE           IT_QUICKMESSAGE_3_FALL_BACK
+LANG_ENGLISH        "3. Ritirata!"
+
+REFERENCE           IT_QUICKMESSAGE_3_IM_IN_POSITION
+LANG_ENGLISH        "3. Sono in posizione."
+
+REFERENCE           IT_QUICKMESSAGE_3_IM_ON_MY_WAY
+LANG_ENGLISH        "3. Sto arrivando!"
+
+REFERENCE           IT_QUICKMESSAGE_3_ON_MY_WAY
+LANG_ENGLISH        "3. Vado subito."
+
+REFERENCE           IT_QUICKMESSAGE_3_RESPONSES
+LANG_ENGLISH        "3. Risposte"
+
+REFERENCE           IT_QUICKMESSAGE_4_AREA_SECURE
+LANG_ENGLISH        "4. Area sicura!"
+
+REFERENCE           IT_QUICKMESSAGE_4_SORRY
+LANG_ENGLISH        "4. Mi spiace."
+
+REFERENCE           IT_QUICKMESSAGE_4_SUPPRESSING_FIRE
+LANG_ENGLISH        "4. Fuoco di soppressione!"
+
+REFERENCE           IT_QUICKMESSAGE_5_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Attacco sul fianco sinistro!"
+
+REFERENCE           IT_QUICKMESSAGE_5_GREAT_SHOT
+LANG_ENGLISH        "5. Che colpo!"
+
+REFERENCE           IT_QUICKMESSAGE_5_GRENADE
+LANG_ENGLISH        "5. Granata!"
+
+REFERENCE           IT_QUICKMESSAGE_5_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "5. Squadra, attacco sul fianco sinistro!"
+
+REFERENCE           IT_QUICKMESSAGE_5_WATCH_SIX
+LANG_ENGLISH        "5. Occhio alle spalle!"
+
+REFERENCE           IT_QUICKMESSAGE_6_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Attacco sul fianco destro!"
+
+REFERENCE           IT_QUICKMESSAGE_6_SNIPER
+LANG_ENGLISH        "6. Cecchino!"
+
+REFERENCE           IT_QUICKMESSAGE_6_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "6. Squadra, attacco sul fianco destro!"
+
+REFERENCE           IT_QUICKMESSAGE_6_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "6. Ci � voluto parecchio!"
+
+REFERENCE           IT_QUICKMESSAGE_7_ARE_YOU_CRAZY
+LANG_ENGLISH        "7. Sei pazzo?"
+
+REFERENCE           IT_QUICKMESSAGE_7_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Tenere la posizione!"
+
+REFERENCE           IT_QUICKMESSAGE_7_NEED_REINFORCEMENTS
+LANG_ENGLISH        "7. Servono rinforzi!"
+
+REFERENCE           IT_QUICKMESSAGE_7_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "7. Squadra, difendete questa posizione!"
+
+REFERENCE           IT_QUICKMESSAGE_8_HOLD_YOUR_FIRE
+LANG_ENGLISH        "8. Non sparate!"
+
+REFERENCE           IT_QUICKMESSAGE_8_REGROUP
+LANG_ENGLISH        "8. Radunarsi!"
+
+REFERENCE           IT_QUICKMESSAGE_8_SQUAD_REGROUP
+LANG_ENGLISH        "8. Squadra, adunata!"
+
+REFERENCE           IT_QUICKMESSAGE_AREA_SECURE
+LANG_ENGLISH        "Area sicura!"
+
+REFERENCE           IT_QUICKMESSAGE_ARE_YOU_CRAZY
+LANG_ENGLISH        "Sei pazzo?"
+
+REFERENCE           IT_QUICKMESSAGE_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Attacco sul fianco sinistro!"
+
+REFERENCE           IT_QUICKMESSAGE_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Attacco sul fianco destro!"
+
+REFERENCE           IT_QUICKMESSAGE_COME_ON
+LANG_ENGLISH        "Forza."
+
+REFERENCE           IT_QUICKMESSAGE_ENEMIES_SPOTTED
+LANG_ENGLISH        "Contatti multipli!"
+
+REFERENCE           IT_QUICKMESSAGE_ENEMY_DOWN
+LANG_ENGLISH        "Nemico eliminato!"
+
+REFERENCE           IT_QUICKMESSAGE_ENEMY_GRENADE
+LANG_ENGLISH        "Granata nemica!"
+
+REFERENCE           IT_QUICKMESSAGE_ENEMY_SPOTTED
+LANG_ENGLISH        "Nemico avvistato!"
+
+REFERENCE           IT_QUICKMESSAGE_ESC_EXIT
+LANG_ENGLISH        "Esc. Esci"
+
+REFERENCE           IT_QUICKMESSAGE_FALL_BACK
+LANG_ENGLISH        "Ritirata!"
+
+REFERENCE           IT_QUICKMESSAGE_FOLLOW_ME
+LANG_ENGLISH        "Seguitemi!"
+
+REFERENCE           IT_QUICKMESSAGE_GREAT_SHOT
+LANG_ENGLISH        "Che colpo!"
+
+REFERENCE           IT_QUICKMESSAGE_GRENADE
+LANG_ENGLISH        "Granata!"
+
+REFERENCE           IT_QUICKMESSAGE_HOLD_THIS_POSITION
+LANG_ENGLISH        "Tenere la posizione!"
+
+REFERENCE           IT_QUICKMESSAGE_HOLD_YOUR_FIRE
+LANG_ENGLISH        "Non sparate!"
+
+REFERENCE           IT_QUICKMESSAGE_IM_IN_POSITION
+LANG_ENGLISH        "Sono in posizione."
+
+REFERENCE           IT_QUICKMESSAGE_IM_ON_MY_WAY
+LANG_ENGLISH        "Sto arrivando!"
+
+REFERENCE           IT_QUICKMESSAGE_MOVE_IN
+LANG_ENGLISH        "Avanti!"
+
+REFERENCE           IT_QUICKMESSAGE_NEED_REINFORCEMENTS
+LANG_ENGLISH        "Servono rinforzi!"
+
+REFERENCE           IT_QUICKMESSAGE_NO_SIR
+LANG_ENGLISH        "No, signore!"
+
+REFERENCE           IT_QUICKMESSAGE_ON_MY_WAY
+LANG_ENGLISH        "Vado subito."
+
+REFERENCE           IT_QUICKMESSAGE_QUICK_MESSAGE
+LANG_ENGLISH        "Messaggio rapido"
+
+REFERENCE           IT_QUICKMESSAGE_REGROUP
+LANG_ENGLISH        "Radunarsi!"
+
+REFERENCE           IT_QUICKMESSAGE_SNIPER
+LANG_ENGLISH        "Cecchino!"
+
+REFERENCE           IT_QUICKMESSAGE_SORRY
+LANG_ENGLISH        "Mi spiace."
+
+REFERENCE           IT_QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK
+LANG_ENGLISH        "Squadra, attacco sul fianco sinistro!"
+
+REFERENCE           IT_QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK
+LANG_ENGLISH        "Squadra, attacco sul fianco destro!"
+
+REFERENCE           IT_QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION
+LANG_ENGLISH        "Squadra, difendete questa posizione!"
+
+REFERENCE           IT_QUICKMESSAGE_SQUAD_REGROUP
+LANG_ENGLISH        "Squadra, adunata!"
+
+REFERENCE           IT_QUICKMESSAGE_SQUAD_STICK_TOGETHER
+LANG_ENGLISH        "Squadra, restate uniti!"
+
+REFERENCE           IT_QUICKMESSAGE_STICK_TOGETHER
+LANG_ENGLISH        "Restate uniti!"
+
+REFERENCE           IT_QUICKMESSAGE_SUPPRESSING_FIRE
+LANG_ENGLISH        "Fuoco di soppressione!"
+
+REFERENCE           IT_QUICKMESSAGE_TOOK_LONG_ENOUGH
+LANG_ENGLISH        "Ci � voluto parecchio!"
+
+REFERENCE           IT_QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH
+LANG_ENGLISH        "Ti ci � voluto parecchio!"
+
+REFERENCE           IT_QUICKMESSAGE_WATCH_SIX
+LANG_ENGLISH        "Occhio alle spalle!"
+
+REFERENCE           IT_QUICKMESSAGE_YES_SIR
+LANG_ENGLISH        "Sissignore!"
+
+REFERENCE           IT_QUICKMESSAGE_YOURE_CRAZY
+LANG_ENGLISH        "Sei pazzo!"
+
+REFERENCE           IT_QUICKMESSAGE_YOURE_NUTS
+LANG_ENGLISH        "Sei impazzito!"
+
+REFERENCE           IT_QUICKMESSAGE_YOU_OUTTA_YOUR_MIND
+LANG_ENGLISH        "Sei forse impazzito?"
+
+REFERENCE           WEAPON_CHEYTAC
+LANG_ENGLISH        "INTERVENTION"
+
+REFERENCE           MPUI_DESC_MAP_FAVELA
+LANG_ENGLISH        "Alleyways of Brazil. Great for all game modes and all sizes."
+
+REFERENCE           MPUI_DESC_MAP_HIGHRISE
+LANG_ENGLISH        "Rooftop skyscraper. Hectic Domination games."
+
+REFERENCE           MPUI_DESC_MAP_NIGHTSHIFT
+LANG_ENGLISH        "Urban city fighting. In and out of apartments close range engagements."
+
+REFERENCE           MPUI_DESC_MAP_NUKED
+LANG_ENGLISH        "A deserted nuke testing facility used in the Cold War."
+
+REFERENCE           MPUI_GTNW
+LANG_ENGLISH        "Global Thermonuclear War"
+
+REFERENCE           MPUI_GTNW_RECIPE_DESC
+LANG_ENGLISH        "Global thermonuclear war."
+
+REFERENCE           MPUI_GTNW_RECIPE_NAME
+LANG_ENGLISH        "Global Thermonuclear War"
+
+REFERENCE           OBJECTIVES_GTNW
+LANG_ENGLISH        "Be the first to capture the Nuclear Strike crate to win."
+
+REFERENCE           PRESENCE_ARENA
+LANG_ENGLISH        "Arena"
+
+REFERENCE           PRESENCE_GTNW
+LANG_ENGLISH        "GTNW"
+
+ENDMARKER
